@@ -8,4 +8,4 @@ My prefered tech-stack for the web is React on the frontend and Python (Django) 
 
 My favorite languages are Python and Go, but I'm currently trying to learn C++ for my pet project.
 
-If you want to reach me, you can find me on [LinkedIn](#), Discord (username: twel_), or contact me via email.
+If you want to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/george-soulantikas-584586263/), Discord (username: twel_), or contact me via email.
