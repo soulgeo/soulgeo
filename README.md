@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name's George, I'm a Greek CS student in my last year. I love coding and I love learning about coding, no matter the field.
+My name's George, I'm a Greek CS student in my last year. I love coding and I love learning about coding, no matter the field!
 
 Currently focusing on learning full-stack web development, while working on a pet game-dev project on the side.
 
